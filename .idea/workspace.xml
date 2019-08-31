@@ -146,6 +146,9 @@
       <find>chr</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -199,6 +202,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -274,6 +278,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests" />
@@ -453,7 +458,7 @@
       <workItem from="1565370860641" duration="870000" />
       <workItem from="1566306514067" duration="494000" />
       <workItem from="1566605881036" duration="1859000" />
-      <workItem from="1567289138684" duration="466000" />
+      <workItem from="1567289138684" duration="654000" />
     </task>
     <servers />
   </component>
@@ -490,7 +495,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330331000" />
+    <option name="totallyTimeSpent" value="330519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="913" y="1080" width="1920" height="1080" extended-state="0" />
